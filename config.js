@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Kamu Sayang Aku ga?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "Ya banget sumpah aku sayang banget sama kusuma ❤️"           // Secret hover message
+            secretAnswer: "Ya banget, sumpah aku sayang banget sama kamu ❤️"           // Secret hover message
         },
         second: {
             text: "Seberapa Sayang Kamu Sama aku?",                          // For the love meter
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! Aku Beruntung Banget Punya Kamu 🎉💝💖💝💓",
-        message: "Miss Berat! Sini Peluk 🤗",
+        message: "Miss Berat! Mau Peluk 🤗",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
